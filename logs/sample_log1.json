@@ -1,0 +1,5 @@
+[
+    {"timestamp": "2024-06-20T12:00:00Z", "message": "User login"},
+    {"timestamp": "2024-06-20T12:01:00Z", "message": "File accessed"},
+    {"timestamp": "2024-06-20T12:02:00Z", "message": "Error detected"}
+]
